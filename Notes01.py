@@ -1,5 +1,5 @@
-def cls():
-    print('\n' * 10)
+import os
+os.system('cls')
 #
 cls()
 #
