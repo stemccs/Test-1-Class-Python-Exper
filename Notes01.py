@@ -20,13 +20,13 @@ print (boi1.upper())
 #
 print() #spacer line
 #
-boi2="Eng1 Class"
+boi2="Engineering Class Experiment"
 print (boi2)
 print (boi2.center(35,"-"))
 #
 str="hello\tworld"
 print (str)
-print (str.expandtabs(tabsize=17))
+print (str.expandtabs(tabsize=15))
 #
 print (boi2[0:1])
 print (boi2[0:2])
