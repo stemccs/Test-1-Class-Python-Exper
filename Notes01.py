@@ -26,7 +26,7 @@ print (boi2.center(35,"-"))
 #
 str="hello\tworld"
 print (str)
-print (str.expandtabs(tabsize=15))
+print (str.expandtabs(tabsize=17))
 #
 print (boi2[0:1])
 print (boi2[0:2])
