@@ -20,20 +20,20 @@ print (sample1.upper())
 #
 print() #spacer line
 #
-sample2="Engineering Class"
-print (sample2)
-print (sample2.center(35,"-"))
+number1="Engineering Class"
+print (number1)
+print (number1.center(35,"-"))
 #
 str="hello\tworld"
 print (str)
 print (str.expandtabs(tabsize=15))
 #
-print (sample2[0:1])
-print (sample2[0:2])
-print (sample2[0:3])
-print (sample2[0:4])
+print (number1[0:1])
+print (number1[0:2])
+print (number1[0:3])
+print (number1[0:4])
 #
-variable = r'c:\trash'
-print (variable)
+tip = r'c:\trash'
+print (tip)
 #
 
