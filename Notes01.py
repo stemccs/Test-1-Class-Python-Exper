@@ -1,5 +1,5 @@
-import os
-os.system('cls')
+def cls():
+    print('\n' * 10)
 #
 cls()
 #
@@ -13,25 +13,25 @@ print(studentLastName+"\t"+studentFirstName)
 print() #spacer line
 #
 #
-sample1="exptextt"
+boi1="exptextt"
 #
-print (sample1)
-print (sample1.upper())
+print (boi1)
+print (boi1.upper())
 #
 print() #spacer line
 #
-sample2="Eng1 Class"
-print (sample2)
-print (sample2.center(35,"-"))
+boi2="Eng1 Class"
+print (boi2)
+print (boi2.center(35,"-"))
 #
 str="hello\tworld"
 print (str)
 print (str.expandtabs(tabsize=15))
 #
-print (sample2[0:1])
-print (sample2[0:2])
-print (sample2[0:3])
-print (sample2[0:4])
+print (boi2[0:1])
+print (boi2[0:2])
+print (boi2[0:3])
+print (boi2[0:4])
 #
 tipp = r'c:\trash'
 print (tipp)
