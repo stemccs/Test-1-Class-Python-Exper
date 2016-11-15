@@ -1,10 +1,10 @@
-def cls():
-    print('\n' * 10)
+import os
+os.system('cls')
 #
 cls()
 #
-studentFirstName="Peppermint"
-studentLastName="Patty"
+studentFirstName="Keeleyyy"
+studentLastName="Gould"
 studentName=studentFirstName+" "+studentLastName
 #
 print (studentName)
@@ -13,14 +13,14 @@ print(studentLastName+"\t"+studentFirstName)
 print() #spacer line
 #
 #
-sample1="experimental text"
+sample1="exptextt"
 #
 print (sample1)
 print (sample1.upper())
 #
 print() #spacer line
 #
-sample2="Engineering Class"
+sample2="Eng1 Class"
 print (sample2)
 print (sample2.center(35,"-"))
 #
@@ -33,7 +33,6 @@ print (sample2[0:2])
 print (sample2[0:3])
 print (sample2[0:4])
 #
-tip = r'c:\trash'
-print (tip)
-#
+tipp = r'c:\trash'
+print (tipp)
 
