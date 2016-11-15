@@ -4,7 +4,7 @@ def cls():
 cls()
 #
 studentFirstName="Peppermint"
-studentLastName="Patty"
+studentLastName="Patrick"
 studentName=studentFirstName+" "+studentLastName
 #
 print (studentName)
@@ -13,7 +13,7 @@ print(studentLastName+"\t"+studentFirstName)
 print() #spacer line
 #
 #
-sample1="experimental text"
+wsertfyu1="experimental text"
 #
 print (sample1)
 print (sample1.upper())
