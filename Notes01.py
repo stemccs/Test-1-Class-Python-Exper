@@ -33,7 +33,7 @@ print (sample2[0:2])
 print (sample2[0:3])
 print (sample2[0:4])
 #
-tip = r'c:\trash'
-print (tip)
+variable = r'c:\trash'
+print (variable)
 #
 
