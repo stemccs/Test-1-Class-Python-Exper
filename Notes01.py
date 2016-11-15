@@ -5,9 +5,9 @@ cls()
 #
 studentFirstName="Keeleyyy"
 studentLastName="Gould"
-studentName=studentFirstName+" "+studentLastName
+heyy=studentFirstName+" "+studentLastName
 #
-print (studentName)
+print (heyy)
 print (studentLastName+",\t\n", studentFirstName)
 print(studentLastName+"\t"+studentFirstName)
 print() #spacer line
