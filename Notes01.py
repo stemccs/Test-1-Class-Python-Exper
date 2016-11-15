@@ -3,7 +3,7 @@ def cls():
 #
 cls()
 #
-studentFirstName="Keeleyyy"
+studentFirstName="Keeley"
 studentLastName="Gould"
 heyy=studentFirstName+" "+studentLastName
 #
