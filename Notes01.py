@@ -4,7 +4,7 @@ def cls():
 cls()
 #
 studentFirstName="Peppermint"
-studentLastName="Patty"
+studentLastName="Bark"
 studentName=studentFirstName+" "+studentLastName
 #
 print (studentName)
@@ -26,7 +26,7 @@ print (sample2.center(35,"-"))
 #
 str="hello\tworld"
 print (str)
-print (str.expandtabs(tabsize=15))
+print (str.expandtabs(tabsize=17))
 #
 print (sample2[0:1])
 print (sample2[0:2])
