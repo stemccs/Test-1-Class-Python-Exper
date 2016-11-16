@@ -14,7 +14,7 @@ print() #spacer line
 #
 print("Annie says hello!")
 #
-boi1="exptextt"
+boi1="NealeMcMillan"
 #
 print (boi1)
 print (boi1.upper())
