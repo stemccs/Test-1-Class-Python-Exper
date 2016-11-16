@@ -36,3 +36,4 @@ print (boi2[0:4])
 tipp = r'c:\trash'
 print (tipp)
 
+a=2
